@@ -1,0 +1,16 @@
+{
+  "name": "multi-level-select",
+  "description": "",
+  "version": "0.1.0",
+  "main": "./index.js",
+  "license": "MIT",
+  "repository": "https://github.com/seulike/Multi-level-select",
+  "keywords": [
+    "multi level select ",
+    "vue"
+  ],
+  "author": "like",
+  "dependencies": {
+    "vue": "^2.2.6"
+  }
+}
