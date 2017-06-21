@@ -15,7 +15,7 @@
     height: 100%;
   }
   .left-nav {
-    width: 100px;
+    width: 7rem;
     height: 100%;
     max-height: 100%;
     overflow-y: scroll;
@@ -30,10 +30,11 @@
 
   .left-nav>li,
   .right-content>ul>li {
-    line-height: 38px;
-    padding-left: 10px;
+    line-height: 3.8rem;
+    padding-left: 1rem;
     position: relative;
     display: block;
+    white-space: nowrap;
   }
 
   .left-nav>li {
@@ -54,14 +55,14 @@
   }
 
   .left-nav>li.light em {
-    width: 8px;
-    height: 8px;
+    width: 0.8rem;
+    height: 0.8rem;
     display: inline-block;
     border-radius: 50%;
     background: #ffa247;
     position: absolute;
-    left: 0px;
-    top: 15px;
+    left: 0rem;
+    top: 1.5rem;
   }
 
   .right-content>ul {
