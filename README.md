@@ -7,7 +7,8 @@ a vue component to select an item from multi-level data
 组件具体样式如下:  
 ![img](https://github.com/seulike/Multi-level-select/blob/master/img/ex.png)
 
-### 使用
+### 使用  
+安装：npm install multi-level-select -S
 ```
 <multi-level-select :data-source="positionArray" @select="select"></multi-level-select>
 ```
